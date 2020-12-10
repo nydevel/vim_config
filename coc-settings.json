@@ -1,0 +1,17 @@
+{
+  "diagnostic.errorSign": "✖",
+  "diagnostic.warningSign": "⚑",
+  "diagnostic.infoSign": "⚑",
+  "diagnostic.hintSign": "⚑",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "html",
+    "javascript",
+    "javascript.jsx",
+    "json",
+    "typescript",
+    "typescript.tsx",
+    "typescriptreact"
+  ],
+  "tsserver.formatOnType": false
+}

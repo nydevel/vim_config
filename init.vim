@@ -85,15 +85,16 @@ syntax on
 
 let g:rustfmt_autosave = 1
 
-set tabstop=4 softtabstop=4
+set tabstop=4
+set softtabstop=4
 set shiftwidth=4
 " Convert tabs into spaces
 set expandtab
 
 set smartindent
 
-" Wrap ine after goes after screen
-set nowrap
+" Wrap line after goes after screen
+set wrap
 
 set smartcase
 
